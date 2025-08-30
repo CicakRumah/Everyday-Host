@@ -33,7 +33,7 @@ Please head to [geckyzz.my.id/terms](https://geckyzz.my.id/terms) for detailed i
 | Proofread — **`PR`** | geckyzz |
 | Lyric Translation — **`LR`** | geckyzz |
 
-### Arabic
+### Arabic (Modern Standard Arabic)
 
 | Role | Staff |
 | ---: | :---- |
